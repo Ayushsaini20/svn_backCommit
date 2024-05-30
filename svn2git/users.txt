@@ -1,3 +1,3 @@
 ManilMunjal = Manil Munjal <manilmunjal@gmail.com>
-AyushSaini = Ayush Saini <qyushsaini963@gmail.com>
+AyushSaini = Ayush Saini <ayushsaini963@gmail.com>
 www-data = www-data <www-data>
