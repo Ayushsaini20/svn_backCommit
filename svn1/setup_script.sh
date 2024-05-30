@@ -58,7 +58,6 @@ find . -type f ! -path "*/.git/*" | while read -r file; do
     esac
 done
 
-git add binary_urls.txt
 
 # 5. Read each JFrog URL from binary_urls.txt
 while read -r jfrog_url; do
@@ -115,4 +114,3 @@ echo -e '*.py
 !*.xlsx' > .gitignore
 
 
-git commit -m "feat: migrate binaries to JFrog"
